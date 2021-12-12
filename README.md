@@ -31,16 +31,17 @@ PH expects the following deliverables:
 
   Employee Titles Data source: [Titles Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
 
-- ERD Diagram (Physial)
------------------------
-
+  Database Environment Created
+  ----------------------------
+  - ERD Diagram (Physial)
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png" width="500" height="500">
 
-- Database Name:
-  PH-EmployeeDB
+  - New Database Name:  PH-EmployeeDB
 
-- Database Schema: The database schema used to all related tables.
- [Schema Query](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/schema.sql)
+  - Database Schema: The database schema used to all related tables.
+  [Schema Query](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/schema.sql)
+ 
+ ----------------------------
  
 ## Results
 
