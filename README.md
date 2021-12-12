@@ -47,12 +47,12 @@ PH expects the following deliverables:
 
 The below bullets will display and describe the results captured; however, there were additional queries produced to assist with producing the expected PH results.  The additional queries are display/described below.
 
-   #### A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
-   ---------------------------------------
+    #### A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
+    ---------------------------------------
     
-  ![Results from Retirement_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retirement_titles_table_query.PNG)
+    ![Results from Retirement_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retirement_titles_table_query.PNG)
   
-  ![Results from Retirement_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_titles_table_query_results.PNG)
+    ![Results from Retirement_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_titles_table_query_results.PNG)
   
   - A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.
   - 
