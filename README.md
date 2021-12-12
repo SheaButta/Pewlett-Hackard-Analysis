@@ -38,8 +38,8 @@ PH expects the following deliverables:
 
   - New Database Name:  PH-EmployeeDB
 
-  - Database Schema: The database schema used to all related tables.
-  [Schema Query](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/schema.sql)
+  - Database Schema/DDL: The database schema used to all related tables.
+  ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/schema.sql)
  
  ----------------------------
  
