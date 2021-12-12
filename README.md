@@ -61,6 +61,7 @@ The below bullets will display and describe the results captured; however, there
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queriesa/Create_Retiring_titles_table_query.PNG" width="800" height="400">
     
   **QUERY RESULTS:**
+  
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG" width="800" height="400">
   
   
@@ -69,15 +70,17 @@ The below bullets will display and describe the results captured; however, there
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Unique_titles_table_query.PNG" width="800" height="400">
     
   **QUERY RESULTS:**
+  
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Unique_titles_table_query_results.PNG" width="800" height="400">
   
   
   **- Query written/executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.**
   ------------------------------------------------------------------------------------------------------------------------------------------------------ 
-  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_mentorship_eligibility_table_query.PNG" width="800" height="400">
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_mentorship_eligibility_table_query.PNG" width="800" height="400">
     
   **QUERY RESULTS:**
-  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Mentorship_eligibility_table_query_results.PNG" width="800" height="400">
+  
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship_eligibility_table_query_results.PNG" width="800" height="400">
   
 ## Summary
 
