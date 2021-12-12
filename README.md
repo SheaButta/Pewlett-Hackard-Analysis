@@ -46,22 +46,26 @@ PH expects the following deliverables:
 The below bullets will display and describe the results captured; however, there were additional queries produced to assist with producing the expected PH results.  The additional queries are display/described below.
 
   - A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
+  - 
   ![Query to create Retirement_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_Retirement_titles_table_query.PNG)
   
   ![Results from Retirement_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Retirement_titles_table_query_results.PNG)
   
   - A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.
+  - 
   ![Query to create Retiring titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_Retiring_titles_table_query.PNG)
   
   ![Results from Retiring titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Retiring_titles_table_query_results.PNG)
   
   - A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. 
+  - 
   ![Query to create Unique_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_Unique_titles_table_query.PNG)
   
   ![Results from Unique titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Unique_titles_table_query_results.PNG)
   
   
   - A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+  - 
   ![Query to create Mentorship Eligibility table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_mentorship_eligibility_table_query.PNG)
   
   ![Results from Mentorship Eligibility table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Mentorship_eligibility_table_query_results.PNG)
