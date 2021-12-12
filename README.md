@@ -62,7 +62,7 @@ The below bullets will display and describe the results captured; however, there
     
   **QUERY RESULTS:**
   
-  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG" width="800" height="400">
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Unique_titles_table_query_results.PNG" width="800" height="400">
   
   
   **- Query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.**
@@ -71,7 +71,7 @@ The below bullets will display and describe the results captured; however, there
     
   **QUERY RESULTS:**
   
-  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Unique_titles_table_query_results.PNG" width="800" height="400">
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG" width="800" height="400">
   
   
   **- Query written/executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.**
