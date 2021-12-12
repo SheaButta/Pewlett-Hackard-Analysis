@@ -52,6 +52,7 @@ The below bullets will display and describe the results captured; however, there
    <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retirement_titles_table_query.PNG" width="800" height="400">
    
    **QUERY RESULTS:**
+   
    <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_titles_table_query_results.PNG" width="600" height="300">
      
   
