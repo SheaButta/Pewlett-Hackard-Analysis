@@ -51,7 +51,10 @@ The below bullets will display and describe the results captured; however, there
   ---------------------------------------------------------------------------------------------------------------------------------------
   ![Create Retirement titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retirement_titles_table_query.PNG)
   
-  ![Retirement_titles table results](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_titles_table_query_results.PNG)
+    - Results from Retirement titles:
+    ----------------------------------
+    
+   ![Retirement titles table results](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_titles_table_query_results.PNG)
   
   
   - Query written/executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.
