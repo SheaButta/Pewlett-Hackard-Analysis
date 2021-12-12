@@ -32,6 +32,7 @@ PH expects the following deliverables:
   Employee Titles Data source: [Titles Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
 
 - ERD Diagram (Physial)
+-----------------------
 
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png" width="500" height="500">
 
