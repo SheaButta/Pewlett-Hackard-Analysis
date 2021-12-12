@@ -11,6 +11,7 @@ PH expects the following deliverables:
 
 - The Number of Retiring Employees by Title
 - The Employees Eligible for the Mentorship Program
+- PH Summary with responses for two (2) specific questions
 
 ## Resources
 
@@ -83,8 +84,28 @@ The below bullets will display and describe the results captured; however, there
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship_eligibility_table_query_results.PNG" width="800" height="400">
   
 ## Summary
-The data successfully analzed using the mentioned tools; additionally, there were no issue discovered with the exception of the titles table.  The analysis revealed that the titles table included duplicate employee numbers.  The analysis concluded; that although an employee left the company (identifed by the "date_to" column) the same employee(s) came back to work for PH under a different title and forced me to re
+The data successfully analzed using the mentioned tools; additionally, there were no issue discovered with the exception of the titles table.  The analysis revealed that the titles table included duplicate employee numbers.  This specific analysis concluded; that although an employee left the company (identifed by the "date_to" column) the same employee(s) came back to work for PH under a different title and forced me to refactor title table schema.
 
-- Number of Currently employeed
-- Number of close to retiring
+The responses for the two specific questions from Pewlett Hackard's are:
+  1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+     Answer: 90,398 roles will need to be filled when this "silver tsunami" starts.  Since we have visualized the "retiring titles" we can easily sum the "count" column to        determine the number of employees that will be retiring which is ultimately the number of roles that will need to filled.
+     
+     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG" width="800" height="400">
+     
+     An additional query to sum the "column" would visualize the roles to be filled as a result of this "silver tsunami".
+     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/SilverTsunami_NumOfRoles_ToFill.PNG" width="800" height="400">
+  
+  
+    As I look at this data even deeer, it appears the maximun birth_date for all employees is "1965-02-01".  
+      - SELECT MAX(emp.birth_date) FROM employees emp RIGHT JOIN dept_emp dept_emp ON (emp.emp_no = dept_emp.emp_no);
+    
+    This really suggests that all roles will need to be filled as there are approximately 300,024 active employees at PH.
+      - SELECT COUNT(DISTINCT (dept_emp.emp_no)) FROM employees emp right JOIN dept_emp dept_emp ON (emp.emp_no = dept_emp.emp_no);
+
+
+  2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+     Answer: Yes.  A additional query reveals the number of employees per title.  
+    
+     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentEmployees_PerTitle.PNG" width="800" height="400">
+     
 
