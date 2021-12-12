@@ -56,28 +56,28 @@ The below bullets will display and describe the results captured; however, there
    <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_titles_table_query_results.PNG" width="600" height="300">
      
   
-  - **Query written/executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.**
-  ------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Query to create Retiring titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queriesa/Create_Retiring_titles_table_query.PNG)
-  
+  **- Query written/executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.**
+  -----------------------------------------------------------------------------------------------------------------------------------------
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queriesa/Create_Retiring_titles_table_query.PNG" width="800" height="400">
+    
   **QUERY RESULTS:**
-  ![Results from Retiring titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG)
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG" width="800" height="400">
   
   
-  - **Query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.**
-  ------------------------------------------------------------------------------------------------------------------------------------------
-  ![Query to create Unique_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Unique_titles_table_query.PNG)
-  
+  **- Query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.**
+  --------------------------------------------------------------------------------------------------------------------------------------------
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Unique_titles_table_query.PNG" width="800" height="400">
+    
   **QUERY RESULTS:**
-  ![Results from Unique titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Unique_titles_table_query_results.PNG)
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Unique_titles_table_query_results.PNG" width="800" height="400">
   
   
-  - Query written/executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------- 
-  ![Query to create Mentorship Eligibility table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_mentorship_eligibility_table_query.PNG)
-  
+  **- Query written/executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.**
+  ------------------------------------------------------------------------------------------------------------------------------------------------------ 
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_mentorship_eligibility_table_query.PNG" width="800" height="400">
+    
   **QUERY RESULTS:**
-  ![Results from Mentorship Eligibility table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Mentorship_eligibility_table_query_results.PNG)
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Mentorship_eligibility_table_query_results.PNG" width="800" height="400">
   
 ## Summary
 
