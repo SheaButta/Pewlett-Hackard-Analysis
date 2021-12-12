@@ -13,24 +13,50 @@ PH expects the following deliverables:
 - The Employees Eligible for the Mentorship Program
 
 ## Resources
+
 - PostgreSQL (A Relational Database Management System)
 - pgAdmin (Interface to interact with PostgreSQL)
-- 
-Employees Data source: [Employee Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/employees.csv)
 
-Deparments Data source: [Departments Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/departments.csv)
+- Datasets used for Analysis:
 
-Department Employee Data source: [Department Employee Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/dept_emp.csv)
+  Employees Data source: [Employee Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv)
 
-Deparment Managers Data source: [Deparment Managers Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/dept_emp.csv)
+  Deparments Data source: [Departments Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv)
 
-Employee Salaries Data source: [Salaries Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/salaries.csv)
+  Department Employee Data source: [Department Employee Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv)
 
-Employee Titles Data source: [Titles Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/titles.csv)
+  Deparment Managers Data source: [Deparment Managers Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv)
 
+  Employee Salaries Data source: [Salaries Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv)
 
+  Employee Titles Data source: [Titles Data](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
 
+- ERD Diagram (Physial)
+
+![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/EmployeeDB_ERD.png.csv)
+
+- Database Name:
+  PH-EmployeeDB
+
+- Database Schema: The database schema used to all related tables.
+ [Schema Query](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/schema.sql)
+ 
 ## Results
+
+The below bullets will display and describe the results captured; however, there were additional queries produced to assist with producing the expected PH results.  The additional queries are display/described below.
+
+  - A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
+  ![Query to create Retirement_titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Create_Retirement_titles_table_query.PNG)
+  
+  ![Results from Retirement_titmes table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Retirement_titles_table_query_results.PNG)
+  
+  - A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.
+  ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Retirement_titles_table_query.PNG)
+  
+  - A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. 
+  ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Retirement_titles_table_query.PNG)
+  - A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+  ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/Retirement_titles_table_query.PNG)  
 
 ## Summary
 
