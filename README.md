@@ -49,7 +49,7 @@ The below bullets will display and describe the results captured; however, there
 
    - **QUERY written/executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.**
    ----------------------------------------------------------------------------------------------------------------------------------------
-   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retirement_titles_table_query.PNG" width="1000" height="1000">
+   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retirement_titles_table_query.PNG" width="1000" height="500">
   
   ##![Create Retirement titles table](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retirement_titles_table_query.PNG)
   
