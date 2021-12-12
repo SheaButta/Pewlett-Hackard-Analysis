@@ -67,7 +67,7 @@ The below bullets will display and describe the results captured; however, there
   
   **- Query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.**
   --------------------------------------------------------------------------------------------------------------------------------------------
-  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Unique_titles_table_query.PNG" width="800" height="400">
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Retiring_titles_table_query.PNG" width="800" height="400">
     
   **QUERY RESULTS:**
   
