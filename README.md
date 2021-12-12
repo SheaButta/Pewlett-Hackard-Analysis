@@ -33,7 +33,7 @@ PH expects the following deliverables:
 
 - ERD Diagram (Physial)
 
-![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/EmployeeDB_ERD.png.csv)
+![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/EmployeeDB_ERD.png)
 
 - Database Name:
   PH-EmployeeDB
