@@ -88,12 +88,14 @@ The data successfully analzed using the mentioned tools; additionally, there wer
 
 The responses for the two specific questions from Pewlett Hackard's are:
   1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+     
      Answer: 90,398 roles will need to be filled when this "silver tsunami" starts.  Since we have visualized the "retiring titles" we can easily sum the "count" column to        determine the number of employees that will be retiring which is ultimately the number of roles that will need to filled.
      
      <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG" width="800" height="400">
      
      An additional query to sum the "column" would visualize the roles to be filled as a result of this "silver tsunami".
-     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/SilverTsunami_NumOfRoles_ToFill.PNG" width="800" height="400">
+     
+     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question1_SilverTsunami_NumOfRoles_ToFill.PNG" width="800" height="400">
   
   
     As I look at this data even deeer, it appears the maximun birth_date for all employees is "1965-02-01".  
@@ -104,6 +106,7 @@ The responses for the two specific questions from Pewlett Hackard's are:
 
 
   2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+     
      Answer: Yes.  A additional query reveals the number of employees per title.  
     
      <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentEmployees_PerTitle.PNG" width="800" height="400">
