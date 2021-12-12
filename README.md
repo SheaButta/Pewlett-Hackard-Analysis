@@ -83,6 +83,8 @@ The below bullets will display and describe the results captured; however, there
   <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship_eligibility_table_query_results.PNG" width="800" height="400">
   
 ## Summary
+The data successfully analzed using the mentioned tools; additionally, there were no issue discovered with the exception of the titles table.  The analysis revealed that the titles table included duplicate employee numbers.  The analysis concluded; that although an employee left the company (identifed by the "date_to" column) the same employee(s) came back to work for PH under a different title and forced me to re
 
-
+- Number of Currently employeed
+- Number of close to retiring
 
