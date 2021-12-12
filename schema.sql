@@ -1,4 +1,7 @@
--- Creating tables for PH-EmployeeDB
+/*
+ DatabaseName: PH-EmployeeDB
+ Table schemas created for PH Analysis
+ */
 CREATE TABLE departments (
      dept_no VARCHAR(4) NOT NULL,
      dept_name VARCHAR(40) NOT NULL,
@@ -8,7 +11,7 @@ CREATE TABLE departments (
 
 CREATE TABLE employees (
 	 emp_no INT NOT NULL,
-     birth_date DATE NOT NULL,
+     birth_date DATE NOT NULL, 
      first_name VARCHAR NOT NULL,
      last_name VARCHAR NOT NULL,
      gender VARCHAR NOT NULL,
@@ -46,26 +49,14 @@ CREATE TABLE dept_emp (
 );
 
 CREATE TABLE titles (
+  title_id SERIAL,
   emp_no INT NOT NULL,
-  titles varchar(25) NOT NULL,
+  titles varchar(50) NOT NULL,
   from_date DATE NOT NULL,
   to_date DATE NOT NULL,
   FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
-  PRIMARY KEY (emp_no)
+  PRIMARY KEY (title_id,emp_no)
 );
 
 
-SELECT 'select * from ' || table_name  ||  ';'   FROM information_schema.tables
-                      WHERE table_schema='public' 
-					  
-					  
-					  
-select * from employees;
-select * from dept_manager;
-select * from departments;
-select * from salaries;
-select * from dept_emp;
-select * from titles;
-
-					  
 
