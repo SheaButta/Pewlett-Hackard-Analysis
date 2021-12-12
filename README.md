@@ -58,7 +58,7 @@ The below bullets will display and describe the results captured; however, there
   
   **- Query written/executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.**
   -----------------------------------------------------------------------------------------------------------------------------------------
-  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queriesa/Create_Retiring_titles_table_query.PNG" width="800" height="400">
+  <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Create_Unique_titles_table_query.PNG" width="800" height="400">
     
   **QUERY RESULTS:**
   
