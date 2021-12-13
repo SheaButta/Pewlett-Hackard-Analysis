@@ -110,7 +110,7 @@ The responses for the two specific questions from Pewlett Hackard's are:
      
       - An additional query reveals the number of current employees per title.  
     
-     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentEmployees_PerTitle.PNG" width="800" height="400">
+     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_query.PNG" width="800" height="400">
      
     
 
