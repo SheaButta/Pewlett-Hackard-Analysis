@@ -89,7 +89,9 @@ The data successfully analzed using the mentioned tools; additionally, there wer
 The responses for the two specific questions from Pewlett Hackard's are:
   1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
      
-     Answer: 90,398 roles will need to be filled when this "silver tsunami" starts.  Since we have visualized the "retiring titles" we can easily sum the "count" column to        determine the number of employees that will be retiring which is ultimately the number of roles that will need to filled.
+     Answer: 
+     
+     - 90,398 roles will need to be filled when this "silver tsunami" starts and visualized by the "Retiring Titles" image below.  Since we have visualized the "retiring            titles" we can easily sum the "count" column to determine the number of employees that will be retiring which is ultimately the number of roles that will need to              filled.  
      
      <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles_table_query_results.PNG" width="800" height="400">
      
@@ -98,17 +100,17 @@ The responses for the two specific questions from Pewlett Hackard's are:
      <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question1_SilverTsunami_NumOfRoles_ToFill.PNG" width="800" height="400">
   
   
-    As I look at this data even deeer, it appears the maximun birth_date for all employees is "1965-02-01".  
+     As I look at this data even deeer, you can use the below query to get the maximum birth date.  This will tell give you some insight into the age of PH employees and if        there are others that may be retiring soon.  The maximun birth_date for all employees is "1965-02-01".  
       - SELECT MAX(emp.birth_date) FROM employees emp RIGHT JOIN dept_emp dept_emp ON (emp.emp_no = dept_emp.emp_no);
     
-    This really suggests that all roles will need to be filled as there are approximately 300,024 active employees at PH.
-      - SELECT COUNT(DISTINCT (dept_emp.emp_no)) FROM employees emp right JOIN dept_emp dept_emp ON (emp.emp_no = dept_emp.emp_no);
-
 
   2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
      
-     Answer: Yes.  A additional query reveals the number of employees per title.  
+     Answer: Yes.  
+     
+      - An additional query reveals the number of current employees per title.  
     
      <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentEmployees_PerTitle.PNG" width="800" height="400">
      
+    
 
