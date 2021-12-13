@@ -122,4 +122,3 @@ The responses for the two specific questions from Pewlett Hackard's are:
       
       ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_Eligible_To_MentorNextGen.PNG)
 
-
