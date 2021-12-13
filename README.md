@@ -114,6 +114,6 @@ The responses for the two specific questions from Pewlett Hackard's are:
      
       -  The below query visualizes the acitve employees per deparment.  
     
-     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_Results.PNG" width="300" height="150">
+     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_Results.PNG" width="600" height="300">
     
 
