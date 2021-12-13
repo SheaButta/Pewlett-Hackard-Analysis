@@ -42,6 +42,10 @@ PH expects the following deliverables:
   - Database Schema: The database schema used to all related tables.
   [DDL to Create Table Object](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/schema.sql)
  
+  - SQL Queries: Queries used to analyze database tables.
+  [SQL Queries used](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
+ 
+ 
  ----------------------------
  
 ## Results
@@ -102,7 +106,7 @@ The responses for the two specific questions from Pewlett Hackard's are:
      ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question1_SilverTsunami_NumOfRoles_ToFill.PNG)
      
   
-     As I look at this data even deeer, you can use the below query to get the maximum birth date.  This will tell give you some insight into the age of PH employees and if        there are others that may be retiring soon.  The maximun birth_date for all employees is "1965-02-01".  
+     As I look at this data even deeer, you can use the below query to get the maximum birth date.  This gives you some insight into the age of PH employees and if                will soon be retiring.  The maximun birth_date for all employees is "1965-02-01".  
       **- SELECT MAX(emp.birth_date) FROM employees emp RIGHT JOIN dept_emp dept_emp ON (emp.emp_no = dept_emp.emp_no);**
     
 
