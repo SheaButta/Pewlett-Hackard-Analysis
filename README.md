@@ -108,9 +108,12 @@ The responses for the two specific questions from Pewlett Hackard's are:
      
      Answer: Yes.  
      
-      - An additional query reveals the number of current employees per title.  
+      - An additional query reveals the number of current employees per title.  As you can see an additional query was used to filter the data in the a table named                   active_employees.
     
      <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_query.PNG" width="800" height="400">
      
+      -  The below query visualizes the acitve employees per deparment.  
+    
+     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_Results.PNG" width="800" height="400">
     
 
