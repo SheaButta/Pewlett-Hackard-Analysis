@@ -86,10 +86,11 @@ The below bullets will display and describe the results captured; however, there
 ## Summary
 The data successfully analzed using the mentioned tools; additionally, there were no issue discovered with the exception of the titles table.  The analysis revealed that the titles table included duplicate employee numbers.  This specific analysis concluded; that although an employee left the company (identifed by the "date_to" column) the same employee(s) came back to work for PH under a different title and forced me to refactor title table schema.
 
-The responses for the two specific questions from Pewlett Hackard's are:
+**The responses for the two specific questions from Pewlett Hackard's are:
+
   1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
      
-     Answer: 
+     **Answer:**
      
      - 90,398 roles will need to be filled when this "silver tsunami" starts and visualized by the "Retiring Titles" image below.  Since we have visualized the "retiring            titles" we can easily sum the "count" column to determine the number of employees that will be retiring which is ultimately the number of roles that will need to              filled.  
      
@@ -106,15 +107,18 @@ The responses for the two specific questions from Pewlett Hackard's are:
 
   2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
      
-     Answer: Yes.  
+     **Answer: Yes.**
      
       - **An additional query reveals the number of current employees per title.  As you can see an additional query was used to filter the data in the a table named                   active_employees.**
-    
-     <img src="https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_query.PNG" width="800" height="400">
-     
-     
+      
+      ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_query.PNG)
+      
       -  **The below query visualizes the acitve employees per deparment.**
     
-     ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_Results.PNG)
+      ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_CurrentActiveEmployees_Results.PNG)
     
+      -  **This final visual displays the breakdown of retirement-ready employees ready to mentor the next generation.**
+      
+      ![](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Queries/Question2_Eligible_To_MentorNextGen.PNG)
+
 
